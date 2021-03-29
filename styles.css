@@ -1,9 +1,6 @@
-body {
-    font-family: Roboto;
-    margin: 0;
-}
-
 .wrapper {
+    font-family: PT Serif;
+    margin: 0;
     width: 80%;
     margin: auto;
 }
