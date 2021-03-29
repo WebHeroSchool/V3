@@ -13,8 +13,8 @@ body {
 }
 
 .logo {
-    // padding: 40px 0;
-    // font: bold 24px/31px pt_serif, helvetica, arial, sans-serif;
+    padding: 40px 0;
+    font: bold 24px/31px 'PT_Serif', helvetica, arial, sans-serif;
     width: 190px;
     height: 35px;
     background: url('img/logo.svg');
